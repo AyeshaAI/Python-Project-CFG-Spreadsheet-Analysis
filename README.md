@@ -23,9 +23,9 @@ Subsequently, I utilized the data from the CSV file and wrote code to restructur
 I utilized Seaborn, a data visualization library, to generate various charts such as bar graphs and pie charts.
 To aid me in producing charts, I referred to instructional videos on datacamp.com and geeksforgeeks.org.
 # What is the focus of the course?
-Code First Girls offers complimentary coding classes to women in the United Kingdom with the aim of narrowing the gender diversity gap in the technology sector. The organization has taught over 100,000 women to code to date!
+Code First Girls mission to address the gender diversity gap in the technology industry. 
 
-The course spanned 8 weeks and covered the basics of Python programming and app development. Throughout the weeks, we completed individual learning and exercises, culminating in a final team project which is presented here. We gained insights into Python programming, Google tools, and collaborative work using Github.
+Over the course of 8 weeks, we delved into the fundamentals of Python programming and app development. During this period, we engaged in individual learning and exercises, culminating in the presentation of a final team project showcased here. Our experience exposed us to various aspects of Python programming, Google tools, and collaborative work through the utilization of Github.
 
-# If you would like to learn more about Code First Girls, please visit their website.
+# Code First Girls website.
 https://codefirstgirls.com/
