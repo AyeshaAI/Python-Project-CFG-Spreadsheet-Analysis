@@ -1,5 +1,5 @@
 # Spreadsheet Analysis
-A project to analyse a spreadsheet with bar charts and pie charts.
+A project to analyse a spreadsheet.
 As part of my participation in the Code First Girls Python course, I developed a Python spreadsheet that enables users to perform basic data analysis on a given dataset. The project involved the following steps:
 
 Reading data from the spreadsheet. Compiling all sales figures from each month into a unified list. Calculating the total sales across all months. Initially, the project was to read the data from the spreadsheet . However, I expanded it to provide additional information about the sales and save the results to a text file.
