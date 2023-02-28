@@ -5,10 +5,10 @@ As part of my participation in the Code First Girls Python course, I developed a
 Reading data from the spreadsheet. Compiling all sales figures from each month into a unified list. Calculating the total sales across all months. Initially, the project was to read the data from the spreadsheet . However, I expanded it to provide additional information about the sales and save the results to a text file.
 To further enhance this, I could consider the following additions:
 
-Generating a summary of results and exporting them to a new spreadsheet
-Calculating percentage changes on a monthly basis
-Finding the average sales figures
-Identifying the months with the highest and lowest sales
+Generating a summary of results and exporting them to a new spreadsheet.
+Calculating percentage changes on a monthly basis.
+Finding the average sales figures.
+Identifying the months with the highest and lowest sales.
 Utilizing a different dataset from a separate spreadsheet as a data source.
 # What steps where taken to complete the task?
 Initially, I spent some time envisioning the project and employed the MOSCOW method to prioritize the features. The MOSCOW method was used to classify the features into the following categories:
